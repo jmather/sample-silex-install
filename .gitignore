@@ -1,0 +1,6 @@
+.idea/*
+cache
+*.iml
+log/*
+vendor/*
+config/config.php

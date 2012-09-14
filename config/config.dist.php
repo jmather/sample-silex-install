@@ -1,0 +1,2 @@
+<?php
+$app['debug'] = false;

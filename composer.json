@@ -1,0 +1,14 @@
+{
+    "require": {
+        "silex/silex": "1.0.*",
+        "monolog/monolog": ">=1.0.0",
+        "symfony/browser-kit": "*"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "autoload": {
+        "psr-0": { "": "src/" }
+    },
+    "minimum-stability": "dev"
+}
