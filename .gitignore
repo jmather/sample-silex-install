@@ -4,3 +4,5 @@ cache
 log/*
 vendor/*
 config/config.php
+composer.phar
+
